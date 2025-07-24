@@ -1,4 +1,4 @@
-# DA-SQL1-Final-Project
+# SQL - Data Analyst
 
 Final Project SQL for Data Analyst
 
